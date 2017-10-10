@@ -1,6 +1,10 @@
 * {
     border: 1px solid red !important;
 }
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
