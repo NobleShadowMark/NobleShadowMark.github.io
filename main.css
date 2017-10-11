@@ -4,6 +4,9 @@
 .selector-for-some-widget {
   box-sizing: content-box;
 }
+.img-circle {
+    border-radius: 50%;
+}
 
 * {
     -webkit-box-sizing: border-box;
